@@ -20,4 +20,4 @@ def sortedArrayToBST(nums):
     return root
 
 nums = [-10, -3, 0, 5, 9]
-root = sortedArrayToBST(nums)
+root = sortedArrayToBST(nums) 
